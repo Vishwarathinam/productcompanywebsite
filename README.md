@@ -459,15 +459,15 @@ body {
 
 ### Products:
 
-![output](./images/homepage.png)
+![output](./images/products.png)
 
 ### People:
 
-![output](./images/homepage.png)
+![output](./images/people.png)
 
 ### Contact Us:
 
-![output](./images/homepage.png)
+![output](./images/about.png)
 
 ## Result:
 
